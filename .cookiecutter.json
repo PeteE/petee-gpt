@@ -1,0 +1,16 @@
+{
+  "_checkout": "2022.6.3",
+  "_output_dir": "/home/petee/dev",
+  "_repo_dir": "/home/petee/.cookiecutters/cookiecutter-hypermodern-python",
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Pete Erickson",
+  "copyright_year": "2023",
+  "development_status": "Development Status :: 1 - Planning",
+  "email": "pete.perickson@gmail.com",
+  "friendly_name": "PeteE GPT",
+  "github_user": "petee",
+  "license": "MIT",
+  "package_name": "petee_gpt",
+  "project_name": "petee-gpt",
+  "version": "0.0.1"
+}
